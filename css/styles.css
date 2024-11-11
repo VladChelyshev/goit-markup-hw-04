@@ -41,6 +41,8 @@ h3 {
   background-position: center;
   background-size: cover;
   max-width: 1440px;
+  padding: 188px 0;
+  margin: 0 auto;
 }
 .section-f .container {
   display: flex;
@@ -360,10 +362,6 @@ main {
   min-width: 169px;
   height: 56px;
   border: none;
-}
-.section-f {
-  padding: 188px 0;
-  margin: 0 auto;
 }
 .logo-nav-footer {
   font-weight: 700;
